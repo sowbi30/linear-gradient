@@ -1,5 +1,5 @@
 # linear-gradient
-http://127.0.0.1:5500/Practicecodes/lineargradint.html
+
 
 // ex : radial-gradient
 //background: rgb(2,0,36);
